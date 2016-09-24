@@ -20,6 +20,7 @@ Create a new project based on the QuickStart
 Clone this repo into new project folder (e.g., my-proj).
 
 git clone  https://github.com/josuearredondo/angular2-quickstart  my-proj
+
 cd my-proj
 
 For discard everything "git-like" you need deleting the .git folder.
