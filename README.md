@@ -26,4 +26,5 @@ cd my-proj
 For discard everything "git-like" you need deleting the .git folder.
 
 rm -rf .git  # non-Windows
+
 rd .git /S/Q # windows
