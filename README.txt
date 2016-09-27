@@ -1,6 +1,6 @@
 Overview 
 
-This project give the necessary elements to run a simple Angular application. This project has been created for Openclassroom exercices :)
+This project give the necessary elements to run a simple Angular application.
 
 This QuickStart application has the structure of a real-world Angular application and displays the simple message: My First Angular App
 
