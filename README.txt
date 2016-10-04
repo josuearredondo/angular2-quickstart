@@ -33,3 +33,7 @@ For discard everything "git-like" you need deleting the .git folder.
 rm -rf .git  # non-Windows
 
 rd .git /S/Q # windows
+
+For run the app with the follow command: 
+
+npm start
